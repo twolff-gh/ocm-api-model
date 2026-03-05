@@ -123,6 +123,6 @@ struct Azure {
     // be located in the same Azure Subscription as Subscription ID.
     // This field is optional - if not specified, SWIFT networking will not be enabled.
     // Immutable.
-    VnetIntegrationSubnetResourceID string
+    VnetIntegrationSubnetResourceID String
 
 }
